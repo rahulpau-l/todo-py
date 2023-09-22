@@ -12,8 +12,8 @@ python3 main.py -rm "todo goes here"
 ```
 
 ## Screenshots
-<img src="/assets/help.png" alt="Alt text" width="600" height="200" />
-<img src="/assets/display.png" alt="Alt text" width="600" height="200" />
+<img src="/assets/help.png" alt="Alt text" width="550" height="250" />
+<img src="/assets/display.png" alt="Alt text" width="550" height="250" />
 
 
 ## How to Use the Project
