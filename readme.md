@@ -1,8 +1,8 @@
 # Todo-py
-Todo-py is a CLI application made to learn MongoDB.
+Todo-py is a cli application made to learn MongoDB.
 
 ## Description
-Todo-py as the name suggests, is a CLI tool in Python that is a todo app. The goal of this project is to learn how to use MongoDB with Python. Argparse, Rich and pymongo were used.
+Todo-py as the name suggests, is a CLI tool in Python that is a todo app. The goal of this project is to learn how to use MongoDB with Python. The libraries used were pymongo and Rich. 
 
 ## Example Commands
 ```bash
@@ -12,6 +12,8 @@ python3 main.py -rm "todo goes here"
 ```
 
 ## Screenshots
+![Alt text](/assets/help.png?raw=true "Optional Title")
+![Alt text](/assets/display.png?raw=true "Optional Title")
 
 
 ## How to Use the Project

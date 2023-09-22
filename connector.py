@@ -36,7 +36,6 @@ class Connetion:
     def upsert_todo(self, task):
         self.collection.find_one_and_update({'task': task}, {"$set" : {'status': 'done'}})
         
-            
     def delete_todo(self, task: str) -> int:
        deleted = self.collection.delete_one({"task": task})
        return deleted.deleted_count

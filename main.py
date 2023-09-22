@@ -37,7 +37,7 @@ if __name__ == "__main__":
         c.post_todo(args.add)
     
     if args.rm:
-       count =  c.delete_todo(args.rm)
+       count = c.delete_todo(args.rm)
        delete_result(count)
 
     if args.display:
